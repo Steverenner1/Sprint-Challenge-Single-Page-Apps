@@ -37,3 +37,20 @@ main {
 header h1 {
   text-align: center;
 }
+
+.character-list {
+  display:flex;
+  flex-direction:column;
+}
+
+.App {
+  display: flex;
+  flex-wrap:wrap;
+  /* text-align: center;
+  margin-top: 1rem;
+  padding: 2rem; */
+}
+
+* {
+  background-color:lightblue;
+}

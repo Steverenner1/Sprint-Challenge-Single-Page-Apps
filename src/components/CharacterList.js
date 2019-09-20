@@ -49,7 +49,7 @@ const [people, setPeople]= useState([{}]);
               <CardText>
               Species: {char.species}
               </CardText>
-              <p>Photo: {char.image}</p>
+              <p>Status: {char.status}</p>
 
 
             </StyledCard>

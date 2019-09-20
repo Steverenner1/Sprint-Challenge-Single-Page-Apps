@@ -4,8 +4,7 @@ import { Link } from 'react-router-dom';
 const Navigation = () => {
   return (
     <div>
-      <div className="App">
-        <h1>The Best Rick and Morty Page Ever!</h1>
+      <div className="Links">
         <div>
           <Link to="/">Home</Link>
         </div>
