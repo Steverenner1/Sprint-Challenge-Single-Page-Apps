@@ -26,7 +26,7 @@ In this challenge, you will create a Single Page Application complete with Clien
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 - [ ]  Explain benefit(s) using `client-side routing`?
-
+With client side routing, the page will not refresh and you will not see the "white flash".  All of the data is stored there and displayed when the user asks for it.  
 > Answer:
 
 ## Project Set Up
