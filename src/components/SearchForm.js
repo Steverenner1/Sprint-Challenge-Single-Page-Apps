@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import ReactDOM from "react-dom";
 import axios from "axios";
 import {withFormik, Form, Field} from "formik";
+import CharacterList from "./components/CharacterList";
 
 const characters = [
   "Rick Sanchez",
